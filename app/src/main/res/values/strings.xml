@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Truco ScoreKeeper</string>
+    <string name="player_one">♤ Duo/Player 1 ♧</string>
+    <string name="player_two">♡ Duo/Player 2 ♢</string>
+    <string name="zero_point">0</string>
+    <string name="one_point">+1 point</string>
+    <string name="three_points">+3 points</string>
+    <string name="six_points">+6 points</string>
+    <string name="nine_points">+9 points</string>
+    <string name="round">Round point(s)</string>
+    <string name="match">Match(es) won</string>
+    <string name="reset">Reset</string>
+</resources>

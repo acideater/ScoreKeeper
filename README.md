@@ -58,8 +58,8 @@ There are no unnecessary blank lines.One variable is declared per declaration li
 
 The code within a method is indented with respect to the method declaration line.
 
-## Screenshots
-*soon*
+## Screenshot
+<img src="https://github.com/acideater/ScoreKeeper/blob/master/Screenshot_20180515-232916.png?raw=true" width="320px">
 
 ## Author
 
